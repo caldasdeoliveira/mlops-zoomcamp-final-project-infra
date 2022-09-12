@@ -1,7 +1,3 @@
-test_make:
-	echo 123
-
-
 activate_gcloud_service_account:
 	gcloud auth activate-service-account --key-file=mlflow-for-gcp/secrets/mlops-zoomcamp-final-project-0e0f7f932f27.json
 
