@@ -1,0 +1,6 @@
+[submodule "mlflow/mlflow-for-gcp"]
+	path = mlflow/mlflow-for-gcp
+	url = https://github.com/dlabsai/mlflow-for-gcp.git
+[submodule "model-repo"]
+	path = model-repo
+	url = https://github.com/caldasdeoliveira/mlops-zoomcamp-final-project-model.git
